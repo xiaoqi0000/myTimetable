@@ -68,7 +68,6 @@ let cla = [
     { className: "计算机组成原理", classID: "08503339-04", classDay: "5", classRoom: "文华-2号实训楼-404", classTeacher: ["杜智宏"], classWeek: ["10", "11", "12", "13", "14", "15", "16", "17", "18"], classTime: "4" },
 
     // { className: "军事理论", classID: "00100110-23", classDay: "", classRoom: "无固定教室", classTeacher: ["王曌"], classWeek: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18"], classTime: "" }
-
 ]
 
 
