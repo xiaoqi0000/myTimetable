@@ -140,6 +140,9 @@ function loadAllClass(arr) {
                     </div>
                     <div class="card-item">
                         <div>16:10 - 17:50</div>
+                    </div>
+                    <div class="card-item">
+                        <div>19:00 - 20:40</div>
                     </div>`;
 
     }
